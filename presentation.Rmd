@@ -14,7 +14,7 @@ output:
       previewLinks: true
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, }
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
@@ -92,6 +92,10 @@ File > New File > R Markdown ...
 </center>
 
 ## New `Rmd` File
+
+
+$$\dfrac{1}{2} \alpha$$
+
 
 <center>
   <img src = 'figures/rstudio_new_rmd.png' width="90%"/>

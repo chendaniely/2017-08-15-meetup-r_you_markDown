@@ -1,10 +1,12 @@
 ---
 title: "parameters"
 author: "Daniel Chen"
-date: ""
 output: html_document
 params:
-  data: ""
+    data: "cars"
+    date: Sys.Date()
+editor_options: 
+    chunk_output_type: console
 ---
 
 ```{r}
