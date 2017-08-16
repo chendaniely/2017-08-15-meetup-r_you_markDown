@@ -2,7 +2,7 @@
 title: 'Back to Basics'
 subtitle: 'R you markDown?'
 author: "Daniel Chen"
-date: "June 26, 2017"
+date: "August 15, 2017"
 output: 
   revealjs::revealjs_presentation:
     theme: "night"

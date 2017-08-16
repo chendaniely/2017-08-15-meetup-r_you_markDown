@@ -3,7 +3,7 @@ title: "parameters"
 author: "Daniel Chen"
 output: html_document
 params:
-    data: "cars"
+    data: "asdf"
     date: Sys.Date()
 editor_options: 
     chunk_output_type: console
